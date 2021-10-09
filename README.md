@@ -1,5 +1,5 @@
 # dependency-parsing
-Dependency is a binary asymmetrical relation, which is represented in diagrams by an arrow from the head to the dependent. As shown in Figure 1. 
+Dependency is a binary asymmetrical relation, which is represented in diagrams by an arrow from the head to the dependent, as shown in below. 
 ![metrics](./dependency.png)
 
 
