@@ -8,12 +8,12 @@ There have been two major long-established methods for dependency parsing, trans
 
 
 ## Dataset
-[Universal Dependencies](https://universaldependencies.org/)
-[English News Text Treebank](https://catalog.ldc.upenn.edu/LDC2015T13)
+* [Universal Dependencies](https://universaldependencies.org/)
+* [English News Text Treebank](https://catalog.ldc.upenn.edu/LDC2015T13)
 
 ##Tools
-[Standford CoreNLP](https://aclanthology.org/P14-5010.pdf)
-[allenNLP](http://docs.allennlp.org/v0.9.0/api/allennlp.models.biaffine_dependency_parser.html)
+* [Standford CoreNLP](https://aclanthology.org/P14-5010.pdf)
+* [allenNLP](http://docs.allennlp.org/v0.9.0/api/allennlp.models.biaffine_dependency_parser.html)
 
 
 ## Transition-based parser
